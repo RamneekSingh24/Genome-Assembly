@@ -1,0 +1,8 @@
+/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/CMakeFiles/genome-assembly1.dir
+/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/CMakeFiles/circulation.dir
+/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/CMakeFiles/tip-removal.dir
+/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/CMakeFiles/finding-bubbles.dir
+/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/CMakeFiles/optimal-k-mer.dir
+/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/CMakeFiles/Genome_Assembly_Faces_Real_Sequencing_Data.dir

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Genome_Assembly_Faces_Real_Sequencing_Data"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="genome-assembly1">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/genome-assembly1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 genome-assembly1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="genome-assembly1/fast">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/genome-assembly1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 genome-assembly1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="circulation">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/circulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 circulation"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="circulation/fast">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/circulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 circulation/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tip-removal">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/tip-removal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 tip-removal"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tip-removal/fast">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/tip-removal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 tip-removal/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="finding-bubbles">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/finding-bubbles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 finding-bubbles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="finding-bubbles/fast">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/finding-bubbles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 finding-bubbles/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="optimal-k-mer">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/optimal-k-mer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 optimal-k-mer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="optimal-k-mer/fast">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/optimal-k-mer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 optimal-k-mer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Genome_Assembly_Faces_Real_Sequencing_Data">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Genome_Assembly_Faces_Real_Sequencing_Data" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 Genome_Assembly_Faces_Real_Sequencing_Data"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Genome_Assembly_Faces_Real_Sequencing_Data/fast">
+				<Option output="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Genome_Assembly_Faces_Real_Sequencing_Data" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMYPC"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 Genome_Assembly_Faces_Real_Sequencing_Data/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/circulation.cpp">
+			<Option target="circulation"/>
+		</Unit>
+		<Unit filename="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/finding-bubbles.cpp">
+			<Option target="finding-bubbles"/>
+		</Unit>
+		<Unit filename="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/genome-assembly1.cpp">
+			<Option target="genome-assembly1"/>
+		</Unit>
+		<Unit filename="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/main.cpp">
+			<Option target="Genome_Assembly_Faces_Real_Sequencing_Data"/>
+		</Unit>
+		<Unit filename="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/optimal-k-mer.cpp">
+			<Option target="optimal-k-mer"/>
+		</Unit>
+		<Unit filename="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/tip-removal.cpp">
+			<Option target="tip-removal"/>
+		</Unit>
+		<Unit filename="/Users/ramneeksingh/Desktop/projects/de-bruijn-graph-on-random-reads-with-errors/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
