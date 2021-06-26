@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ramneeksingh/Desktop/projects/genome-assembly-de-brujin-graph/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cassert
+-
+unordered_set
+-
+unordered_map
+-
+

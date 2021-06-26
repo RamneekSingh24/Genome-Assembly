@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ramneeksingh/Desktop/projects/genome-assembly-de-brujin-graph/eulerian-path.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

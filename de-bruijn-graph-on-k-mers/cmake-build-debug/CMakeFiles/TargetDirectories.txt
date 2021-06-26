@@ -1,0 +1,5 @@
+/Users/ramneeksingh/Desktop/projects/genome-assembly-de-brujin-graph/cmake-build-debug/CMakeFiles/puzzle-assembly.dir
+/Users/ramneeksingh/Desktop/projects/genome-assembly-de-brujin-graph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ramneeksingh/Desktop/projects/genome-assembly-de-brujin-graph/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ramneeksingh/Desktop/projects/genome-assembly-de-brujin-graph/cmake-build-debug/CMakeFiles/eulerian-path.dir
+/Users/ramneeksingh/Desktop/projects/genome-assembly-de-brujin-graph/cmake-build-debug/CMakeFiles/genome_assembly_de_brujin_graph.dir

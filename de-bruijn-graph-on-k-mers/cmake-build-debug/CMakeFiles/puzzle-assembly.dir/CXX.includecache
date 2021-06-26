@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ramneeksingh/Desktop/projects/genome-assembly-de-brujin-graph/puzzle-assembly.cpp
+iostream
+-
+string
+-
+sstream
+-
+vector
+-
+algorithm
+-
+
